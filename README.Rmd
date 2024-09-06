@@ -115,7 +115,7 @@ if (params$download_material == TRUE) {
     "logo: assets/logo.png", "\n",
     "title: {params$nome_curso}", "\n",
     "show_downloads: true", "\n",
-    "link_material: 'https://github.com/curso-r/{params$turma}/archive/refs/heads/main.zip'",
+    "link_material: 'https://github.com/curso-r/202409-r4ds-2/archive/refs/heads/main.zip'",
     "\n"
   )
 } else {
