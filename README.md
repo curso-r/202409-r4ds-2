@@ -29,8 +29,15 @@ Fora do horário de aula ou monitoria:
 
 ## Slides
 
-| Slide |
-|:------|
+| Slide                                                                                               |
+|:----------------------------------------------------------------------------------------------------|
+| [00_introducao.html](https://curso-r.github.io/202409-r4ds-2/slides/00_introducao.html)             |
+| [01_manipulacao.html](https://curso-r.github.io/202409-r4ds-2/slides/01_manipulacao.html)           |
+| [02_strings.html](https://curso-r.github.io/202409-r4ds-2/slides/02_strings.html)                   |
+| [03_datas_fatores.html](https://curso-r.github.io/202409-r4ds-2/slides/03_datas_fatores.html)       |
+| [04_controle_funcoes.html](https://curso-r.github.io/202409-r4ds-2/slides/04_controle_funcoes.html) |
+| [05_funcional.html](https://curso-r.github.io/202409-r4ds-2/slides/05_funcional.html)               |
+| [06_metaprogramacao.html](https://curso-r.github.io/202409-r4ds-2/slides/06_metaprogramacao.html)   |
 
 ## Scripts utilizados em aula
 
@@ -44,16 +51,11 @@ Fora do horário de aula ou monitoria:
 
 ## Lição de casa
 
-| Exercício |
-|:----------|
-
-## Material extra
-
-Referências extras relacionadas com o conteúdos das aulas, ou materiais
-que comentamos quando tiramos dúvidas (não necessariamente são
-relacionadas com o conteúdo da aula).
-
-    #> Em breve!
+| Exercício                                                                             |
+|:--------------------------------------------------------------------------------------|
+| [d_processos.rds](https://curso-r.github.io/202409-r4ds-2/exercicios/d_processos.rds) |
+| [tarefas.Rmd](https://curso-r.github.io/202409-r4ds-2/exercicios/tarefas.Rmd)         |
+| [tcc.Rmd](https://curso-r.github.io/202409-r4ds-2/exercicios/tcc.Rmd)                 |
 
 ## Redes sociais da Curso-R
 

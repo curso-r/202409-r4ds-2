@@ -1,0 +1,76 @@
+# Aula 1 -----------------------
+
+## tidyr
+
+Ler e fazer os exercícios sobre tidyr: https://livro.curso-r.com/7-3-tidyr.html
+
+## dplyr
+
+Ler e fazer os exercícios sobre dplyr 1.0: https://livro.curso-r.com/7-2-dplyr.html#dplyr-1.0
+
+# Aula 2 -----------------------
+
+## stringr
+
+Ler e fazer os exercícios sobre stringr: https://livro.curso-r.com/7-4-o-pacote-stringr.html
+
+
+## Exercício prático
+
+Leia a base da CVM:
+
+```{r}
+da <- readr::read_rds("d_processos.rds")
+```
+
+A base de dados abaixo é uma amostra de 100 processos da Comissão de Valores Mobiliários (CVM). Precisamos extrair todos os números de processos que são citados nas colunas "info" e "txt". 
+
+Existem 2 padrões possíveis de processo:
+
+1. O número "SEI", que está no formato
+
+19957.XXXXXX/<ANO>-XX, sendo XX números. Por exemplo:
+
+19957.003870/2016-35
+
+O ano deve ser 2010 ou maior
+
+2. O número "PAS", que está no formato
+
+XX<ANO>/<Número>, onde
+
+XX pode ser SP, RJ ou DF, pode ter espaço ou não antes do ano, e o ano pode ser entre 1995 e 2020.
+
+O resultado deve ser uma base de dados em que cada linha é um número de processo, repetindo o "id_decisao" se encontrar mais de um processo por texto.
+
+# Aula 3 -----------------------
+
+## lubridate
+
+Ler e fazer os exercícios sobre lubridate: https://livro.curso-r.com/7-5-o-pacote-lubridate.html
+
+## forcats
+
+Ler e fazer os exercícios sobre forcats: https://livro.curso-r.com/7-6-forcats.html
+
+# Aula 4 -----------------------
+
+## Controle de fluxo
+
+Ler e fazer os exercícios sobre controle de fluxo: https://livro.curso-r.com/3-12-controle-de-fluxo.html
+
+## Funções
+
+Ler e fazer os exercícios sobre funções: https://livro.curso-r.com/3-3-objetosFuncoes.html
+
+# Aula 5 -----------------------
+
+## purrr
+
+Ler e fazer os exercícios sobre purrr: https://livro.curso-r.com/10-5-exerc%C3%ADcios-23.html
+
+# Aula 6 -----------------------
+
+## rlang
+
+Ler e fazer os exercícios sobre rlang: https://livro.curso-r.com/11-1-nse.html
