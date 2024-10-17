@@ -29,20 +29,32 @@ Fora do horário de aula ou monitoria:
 
 ## Slides
 
-| Slide                                                                                               |
-|:----------------------------------------------------------------------------------------------------|
-| [00_introducao.html](https://curso-r.github.io/202409-r4ds-2/slides/00_introducao.html)             |
-| [01_manipulacao.html](https://curso-r.github.io/202409-r4ds-2/slides/01_manipulacao.html)           |
-| [02_strings.html](https://curso-r.github.io/202409-r4ds-2/slides/02_strings.html)                   |
-| [03_datas_fatores.html](https://curso-r.github.io/202409-r4ds-2/slides/03_datas_fatores.html)       |
+| Slide |
+|:---|
+| [00_introducao.html](https://curso-r.github.io/202409-r4ds-2/slides/00_introducao.html) |
+| [01_manipulacao.html](https://curso-r.github.io/202409-r4ds-2/slides/01_manipulacao.html) |
+| [02_strings.html](https://curso-r.github.io/202409-r4ds-2/slides/02_strings.html) |
+| [03_datas_fatores.html](https://curso-r.github.io/202409-r4ds-2/slides/03_datas_fatores.html) |
 | [04_controle_funcoes.html](https://curso-r.github.io/202409-r4ds-2/slides/04_controle_funcoes.html) |
-| [05_funcional.html](https://curso-r.github.io/202409-r4ds-2/slides/05_funcional.html)               |
-| [06_metaprogramacao.html](https://curso-r.github.io/202409-r4ds-2/slides/06_metaprogramacao.html)   |
+| [05_funcional.html](https://curso-r.github.io/202409-r4ds-2/slides/05_funcional.html) |
+| [06_metaprogramacao.html](https://curso-r.github.io/202409-r4ds-2/slides/06_metaprogramacao.html) |
 
 ## Scripts utilizados em aula
 
 | Exemplo |
-|:--------|
+|:---|
+| [00-sidrar.R](https://curso-r.github.io/202409-r4ds-2/scripts/00-sidrar.R) |
+| [01-tidyr.R](https://curso-r.github.io/202409-r4ds-2/scripts/01-tidyr.R) |
+| [02-datas.R](https://curso-r.github.io/202409-r4ds-2/scripts/02-datas.R) |
+| [03-fatores.R](https://curso-r.github.io/202409-r4ds-2/scripts/03-fatores.R) |
+| [04-funcoes.R](https://curso-r.github.io/202409-r4ds-2/scripts/04-funcoes.R) |
+| [05-programacao-funcional-pratica.R](https://curso-r.github.io/202409-r4ds-2/scripts/05-programacao-funcional-pratica.R) |
+| [05-programacao-funcional.R](https://curso-r.github.io/202409-r4ds-2/scripts/05-programacao-funcional.R) |
+| [06-stringr.R](https://curso-r.github.io/202409-r4ds-2/scripts/06-stringr.R) |
+| [07-tidyeval.R](https://curso-r.github.io/202409-r4ds-2/scripts/07-tidyeval.R) |
+| [08-tse.R](https://curso-r.github.io/202409-r4ds-2/scripts/08-tse.R) |
+| [README.md](https://curso-r.github.io/202409-r4ds-2/scripts/README.md) |
+| [exemplo-gist.R](https://curso-r.github.io/202409-r4ds-2/scripts/exemplo-gist.R) |
 
 ## Práticas
 
@@ -51,11 +63,11 @@ Fora do horário de aula ou monitoria:
 
 ## Lição de casa
 
-| Exercício                                                                             |
-|:--------------------------------------------------------------------------------------|
+| Exercício |
+|:---|
 | [d_processos.rds](https://curso-r.github.io/202409-r4ds-2/exercicios/d_processos.rds) |
-| [tarefas.Rmd](https://curso-r.github.io/202409-r4ds-2/exercicios/tarefas.Rmd)         |
-| [tcc.Rmd](https://curso-r.github.io/202409-r4ds-2/exercicios/tcc.Rmd)                 |
+| [tarefas.Rmd](https://curso-r.github.io/202409-r4ds-2/exercicios/tarefas.Rmd) |
+| [tcc.Rmd](https://curso-r.github.io/202409-r4ds-2/exercicios/tcc.Rmd) |
 
 ## Redes sociais da Curso-R
 
